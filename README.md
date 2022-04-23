@@ -32,6 +32,6 @@ VALBORG,VOLTIGÖR,LIB3RIA,35
 Förfog@,Scones,M@gs@ft,99
 TJOGTAL ROND$KÅL HÅRLUGG 17
 
- - Tillägg och uppnumtran
+	- Tillägg och uppnumtran
 
 Användare av programmet uppmuntras att hämta hem och göra egna modifikationer av programmet. Detta för att öka variationen och komplexiteten av de lösenord som tas i bruk.
