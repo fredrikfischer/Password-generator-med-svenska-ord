@@ -1,0 +1,15 @@
+/home/fredrikfischer/Documents/Programmering/fras-generator/bin/Debug/net6.0/Programmering
+/home/fredrikfischer/Documents/Programmering/fras-generator/bin/Debug/net6.0/Programmering.deps.json
+/home/fredrikfischer/Documents/Programmering/fras-generator/bin/Debug/net6.0/Programmering.runtimeconfig.json
+/home/fredrikfischer/Documents/Programmering/fras-generator/bin/Debug/net6.0/Programmering.dll
+/home/fredrikfischer/Documents/Programmering/fras-generator/bin/Debug/net6.0/Programmering.pdb
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.csproj.AssemblyReference.cache
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.GeneratedMSBuildEditorConfig.editorconfig
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.AssemblyInfoInputs.cache
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.AssemblyInfo.cs
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.csproj.CoreCompileInputs.cache
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.dll
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/refint/Programmering.dll
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.pdb
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/Programmering.genruntimeconfig.cache
+/home/fredrikfischer/Documents/Programmering/fras-generator/obj/Debug/net6.0/ref/Programmering.dll
