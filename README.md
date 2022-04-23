@@ -17,7 +17,7 @@ Standardversionen av detta program avser att:
 4. Slumpvis göra lösenordet antingen lowercase, capitalcase eller uppercase.  
 5. Lägga till ett nummer mellan 0-99, antingen i början eller slutet av lösenordet. 
 
-	- Resultat
+	   - Resultat
 
 Exempel av 10 st slumpmässigt genererade lösenord:
 
