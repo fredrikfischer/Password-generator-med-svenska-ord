@@ -2,12 +2,6 @@
 
 SINCE THIS IS A PROGRAM AIMED FOR SWEDISH TALKING USERS, THE README IS IN SWEDISH
 
-	- Hur man kör detta program
-Detta program är skrivet i C# körs från terminalen.
-1. Ladda ned programmet
-2. Navigera till mappen i termianlen 
-3. Kör kommandot "dotnet run"
-
 	- Bakgrund och motiv
 
 Detta program generar starka lösenord menat att användas för svensktalande användare. Programmet är inspirerat av NIST lösenordsstandard, vilken uppmuntrar lösenord uppbyggda av flera ihopsatta ord. Detta ger komplexta lösenord som samtidigt är enkla för en människa att minnas. Dessa principer har i detta program anamats och vidareutvecklats, med målet att generera komplexa lösenord, som samtidigtär lätta att minnas och återge.
@@ -20,6 +14,12 @@ Standardversionen av detta program avser att:
 3. Byter ut en av charachters i lösenordet till en "special charachter". Exempel: Ifall lösenordet innan denna process är "banan-fyra-lindas" och special char är "@", kommer lösenordet efter denna process vara "b@n@n-fyr@-lind@s".
 4. Slumpvis göra lösenordet antingen lowercase, capitalcase eller uppercase.  
 5. Lägga till ett nummer mellan 0-99, antingen i början eller slutet av lösenordet. 
+
+	   - Hur man kör detta program
+Detta program är skrivet i C# körs från terminalen.
+1. Ladda ned programmet
+2. Navigera till mappen i termianlen 
+3. Kör kommandot "dotnet run"
 
 	   - Resultat
 
