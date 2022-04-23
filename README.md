@@ -2,7 +2,11 @@
 
 SINCE THIS IS A PROGRAM AIMED FOR SWEDISH TALKING USERS, THE README IS IN SWEDISH
 
-Lösenordgenerator med svenska ord
+	- Hur man kör detta program
+Detta program är skrivet i C# körs från terminalen.
+1. Ladda ned programmet
+2. Navigera till mappen i termianlen 
+3. Kör kommandot "dotnet run"
 
 	- Bakgrund och motiv
 
