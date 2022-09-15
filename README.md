@@ -1,7 +1,5 @@
 # Password-generator-with-Swedish-phrases
 
-SINCE THIS IS A PROGRAM AIMED FOR SWEDISH SPEAKING USERS, THE README IS IN SWEDISH
-
 	- Bakgrund och motiv
 
 Detta program generar starka lösenord menat att användas för svensktalande användare. Programmet är inspirerat av NIST lösenordsstandard, vilken uppmuntrar lösenord uppbyggda av flera ihopsatta ord. Detta ger komplexta lösenord som samtidigt är enkla för en människa att minnas. Dessa principer har i detta program anamats och vidareutvecklats, med målet att generera komplexa lösenord, som samtidigtär lätta att minnas och återge.
